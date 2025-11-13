@@ -1,5 +1,5 @@
 # Cadastro-de-Computador
-Alice precisa desenvolver uma aplicação para inventariar os computadores de sua loja, para isso você deve
+1) Alice precisa desenvolver uma aplicação para inventariar os computadores de sua loja, para isso você deve
 desenvolver um formulário para cadastrar e listar os computadores de sua loja. No formulário deverá ter as
 seguintes informações do computador:
 
@@ -13,4 +13,15 @@ seguintes informações do computador:
 - Status: funcionando, com defeito.
 - Tipo de defeito.
 ----------------------------------------------------
+
+Aplicativos usados: Visual Studio, MySQL Workbench.
 Lenguage: C#, SQL
+
+----------------------------------------------------
+
+# Prints e Gifs
+
+1. Tela Inicial.
+   ![Tela Inicial](/PrintsGifs/TelaInicial.png)
+2. Gif em funcionamento.
+   ![GifFunc](/PrintsGifs/GifCadastroComputadores.gif)

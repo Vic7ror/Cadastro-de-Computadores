@@ -12,6 +12,7 @@ seguintes informações do computador:
 - Ano.
 - Status: funcionando, com defeito.
 - Tipo de defeito.
+
 ----------------------------------------------------
 
 Aplicativos usados: Visual Studio, MySQL Workbench.

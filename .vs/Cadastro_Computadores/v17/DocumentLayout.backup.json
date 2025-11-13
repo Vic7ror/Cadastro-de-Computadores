@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victor\\Documents\\GitHub\\Cadastro-de-Computadores\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12865981-9A66-4E21-8418-1B8CC835517C}|Cadastro_Computadores\\Cadastro_Computadores.csproj|c:\\users\\victor\\documents\\github\\cadastro-de-computadores\\cadastro_computadores\\frm_computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12865981-9A66-4E21-8418-1B8CC835517C}|Cadastro_Computadores\\Cadastro_Computadores.csproj|solutionrelative:cadastro_computadores\\frm_computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12865981-9A66-4E21-8418-1B8CC835517C}|Cadastro_Computadores\\Cadastro_Computadores.csproj|c:\\users\\victor\\documents\\github\\cadastro-de-computadores\\cadastro_computadores\\frm_computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12865981-9A66-4E21-8418-1B8CC835517C}|Cadastro_Computadores\\Cadastro_Computadores.csproj|solutionrelative:cadastro_computadores\\frm_computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12865981-9A66-4E21-8418-1B8CC835517C}|Cadastro_Computadores\\Cadastro_Computadores.csproj|c:\\users\\victor\\documents\\github\\cadastro-de-computadores\\cadastro_computadores\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12865981-9A66-4E21-8418-1B8CC835517C}|Cadastro_Computadores\\Cadastro_Computadores.csproj|solutionrelative:cadastro_computadores\\computador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12865981-9A66-4E21-8418-1B8CC835517C}|Cadastro_Computadores\\Cadastro_Computadores.csproj|c:\\users\\victor\\documents\\github\\cadastro-de-computadores\\cadastro_computadores\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12865981-9A66-4E21-8418-1B8CC835517C}|Cadastro_Computadores\\Cadastro_Computadores.csproj|solutionrelative:cadastro_computadores\\conexao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12865981-9A66-4E21-8418-1B8CC835517C}|Cadastro_Computadores\\Cadastro_Computadores.csproj|c:\\users\\victor\\documents\\github\\cadastro-de-computadores\\cadastro_computadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12865981-9A66-4E21-8418-1B8CC835517C}|Cadastro_Computadores\\Cadastro_Computadores.csproj|solutionrelative:cadastro_computadores\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_computador.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Cadastro-de-Computadores\\Cadastro_Computadores\\Frm_computador.cs",
+              "RelativeDocumentMoniker": "Cadastro_Computadores\\Frm_computador.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Cadastro-de-Computadores\\Cadastro_Computadores\\Frm_computador.cs",
+              "RelativeToolTip": "Cadastro_Computadores\\Frm_computador.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAvwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:37:58.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_computador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Cadastro-de-Computadores\\Cadastro_Computadores\\Frm_computador.cs",
+              "RelativeDocumentMoniker": "Cadastro_Computadores\\Frm_computador.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Cadastro-de-Computadores\\Cadastro_Computadores\\Frm_computador.cs [Design]",
+              "RelativeToolTip": "Cadastro_Computadores\\Frm_computador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:36:45.54Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Conexao.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Cadastro-de-Computadores\\Cadastro_Computadores\\Conexao.cs",
+              "RelativeDocumentMoniker": "Cadastro_Computadores\\Conexao.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Cadastro-de-Computadores\\Cadastro_Computadores\\Conexao.cs",
+              "RelativeToolTip": "Cadastro_Computadores\\Conexao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:36:50.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Computador.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Cadastro-de-Computadores\\Cadastro_Computadores\\Computador.cs",
+              "RelativeDocumentMoniker": "Cadastro_Computadores\\Computador.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Cadastro-de-Computadores\\Cadastro_Computadores\\Computador.cs",
+              "RelativeToolTip": "Cadastro_Computadores\\Computador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:36:49.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Victor\\Documents\\GitHub\\Cadastro-de-Computadores\\Cadastro_Computadores\\Program.cs",
+              "RelativeDocumentMoniker": "Cadastro_Computadores\\Program.cs",
+              "ToolTip": "C:\\Users\\Victor\\Documents\\GitHub\\Cadastro-de-Computadores\\Cadastro_Computadores\\Program.cs",
+              "RelativeToolTip": "Cadastro_Computadores\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T06:36:46.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

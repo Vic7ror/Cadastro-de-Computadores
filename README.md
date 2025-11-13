@@ -26,4 +26,4 @@ Lenguage: C#, SQL
    ![Tela Inicial](/PrintsGifs/TelaInicial.png)
 
 2. Gif em funcionamento.
-   ![GifFunc](/PrintsGifs/GifCadastroComputadores.gif)
+   ![Tela Inicial](/PrintsGifs/GifCadastroComputadores.gif)

@@ -23,7 +23,7 @@ Lenguage: C#, SQL
 # Prints e Gifs
 
 1. Tela Inicial.
-    ![Tela Inicial](/PrintsGifs/TelaInicial.png)
+   - ![Tela Inicial](/PrintsGifs/TelaInicial.png)
 
 2. Gif em funcionamento.
-    ![Tela Inicial](/PrintsGifs/GifCadastroComputadores.gif)
+   - ![Tela Inicial](/PrintsGifs/GifCadastroComputadores.gif)
